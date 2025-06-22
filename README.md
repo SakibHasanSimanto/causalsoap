@@ -48,7 +48,7 @@ model.fit(X, y, outcome_type='continuous', categorical_features=['X4'])
 
 print(model.get_feature_ate())
 ```
-##⚙️ Parameters
+## ⚙️ Parameters
 ```
 fit(X, y, outcome_type, categorical_features=None) 
 ```
@@ -57,7 +57,7 @@ fit(X, y, outcome_type, categorical_features=None)
 `outcome_type` : Continuous or categorical `str`
 `categorical_features`: List of column names in `X` that are categorical but encoded numerically `list[str]`
 
-## ## 📈 How it Works
+## 📈 How it Works
 
 For each feature:
 
