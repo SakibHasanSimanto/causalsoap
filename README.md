@@ -5,7 +5,7 @@ Author: [Kazi Sakib Hasan](mailto:simanto.alt@gmail.com)
 
 ---
 
-## 💡 What is causalsoap?
+## 🔰 What is causalsoap?
 
 `causalsoap` is a Python library for **causal inference-driven feature selection and dimensionality reduction technique**.  
 It ranks features based on their **Average Treatment Effect (ATE)** on an outcome variable by applying the **Frisch–Waugh–Lovell (FWL) theorem** using residualization and double machine learning.
@@ -67,4 +67,11 @@ For each feature:
     
 3.  Estimate ATE via linear regression: `Ro ~ Rt`
 
+## 💡Interpretation 
+
+Consider: ATE of 'X1' on Y = +2.5 
+
+This means: 
+If you increased 'X1' by 1 unit, holding confounders constant,
+the outcome Y would increase by 2.5 on average.
 
