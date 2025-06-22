@@ -1,14 +1,18 @@
 from setuptools import setup, find_packages
 
+# Safely read the README file with UTF-8 encoding to avoid Unicode errors
+with open('README.md', encoding='utf-8') as f:
+    long_description = f.read()
+
 setup(
-    name='deepCausal',
-    version='0.1.0',
+    name='causalsoap',
+    version='0.1.1',
     author='Kazi Sakib Hasan',
     author_email='simanto.alt@gmail.com',
-    description='A causal feature selection library using residual-based ATE estimation.',
-    long_description=open('README.md').read(),
+    description='A causal feature selection (Causal DRIFT: Causal Dimensionality Reduction via Inference of Feature Treatments) library using residual-based ATE estimation.',
+    long_description=long_description,
     long_description_content_type='text/markdown',
-    url='https://github.com/SakibHasanSimanto/deepCausal',  
+    url='https://github.com/SakibHasanSimanto/deepCausal',  # Replace 'yourusername' once uploaded
     packages=find_packages(),
     install_requires=[
         'numpy',
@@ -22,3 +26,4 @@ setup(
     ],
     python_requires='>=3.7',
 )
+
