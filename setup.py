@@ -8,7 +8,7 @@ setup(
     description='A causal feature selection library using residual-based ATE estimation.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/deepCausal',  # i need to update it when repo is ready
+    url='https://github.com/SakibHasanSimanto/deepCausal',  
     packages=find_packages(),
     install_requires=[
         'numpy',
