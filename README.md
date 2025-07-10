@@ -73,5 +73,16 @@ Consider: ATE of 'X1' on Y = +2.5
 
 This means: 
 If you increased 'X1' by 1 unit, holding confounders constant,
-the outcome Y would increase by 2.5 on average.
+the outcome Y would increase by 2.5 on average. 
+
+## Reproducibility of Research 
+Algorithm codes: https://colab.research.google.com/drive/12lIFDuD9k-qxLA9UcBm3-0Eq9YC3V8T_?usp=sharing  
+
+Analysis on Breast Cancer datset: https://colab.research.google.com/drive/1ScKgbHQysVOpECc8NZ_Tz-lY2MmUiXov?usp=sharing 
+
+Analysis on Diabetes dataset: https://colab.research.google.com/drive/165H4_j-mJsDsp9Vi4gkBbcrH02qq-nhu?usp=sharing 
+
+Analysis on Heart disease dataset: https://colab.research.google.com/drive/1efgUr8biLaAWRsTbJ0gHJtZgvFc63nW6?usp=sharing  
+
+Analysis on PCOS dataset: https://colab.research.google.com/drive/1HIGl0EjO76UgK00w7bXt1A9fkbu0F3X6?usp=sharing 
 
