@@ -86,3 +86,7 @@ Analysis on Heart disease dataset: https://colab.research.google.com/drive/1efgU
 
 Analysis on PCOS dataset: https://colab.research.google.com/drive/1HIGl0EjO76UgK00w7bXt1A9fkbu0F3X6?usp=sharing 
 
+Analysis on statistical significance: https://colab.research.google.com/drive/1baSP-tophvXepFr6zg2MVvGeFbMbiEDs?usp=sharing 
+
+Dimensionality reduction of datasets: https://colab.research.google.com/drive/1H4tX2ekG1fPKoPFfFEfgkYCXMwQ-zsls?usp=sharing
+
