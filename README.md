@@ -15,7 +15,7 @@ This method is particularly useful when:
 - The dataset has **confounders**
 - Traditional correlation-based selection is misleading
 
-Link to preprint will be available soon. 
+Preprint: https://www.medrxiv.org/content/10.1101/2025.07.10.25331298v1.full.pdf 
 
 ---
 
